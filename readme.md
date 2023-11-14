@@ -43,28 +43,28 @@
 
 ## Sitemap
 
-![Sitemap](./docs/portfolio_sitemap.jpg)
+![Sitemap](./images/screenshots/portfolio_sitemap.jpg)
 ##Screenshots
 
 #### Homepage
 
-![Homepage](./docs/homepage.jpg)
+![Homepage](./images/screenshots/homepage.jpg)
 
 #### About page
 
-![Homepage](./docs/about_page.jpg)
+![Homepage](./images/screenshots/about_page.jpg)
 
 #### Blog page
 
-![Homepage](./docs/blog_page.jpg)
+![Homepage](./images/screenshots/blog_page.jpg)
 
 #### Individual blog
 
-![Homepage](./docs/blog_page_1.jpg)
+![Homepage](./images/screenshots/blog_page_1.jpg)
 
 #### Contact page
 
-![Homepage](./docs/contact_page.jpg)
+![Homepage](./images/screenshots/contact_page.jpg)
 
 ### Target audience
 
