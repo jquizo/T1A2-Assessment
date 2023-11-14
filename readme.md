@@ -3,7 +3,7 @@
 ## Coder Academy Online Portfolio
 
 - Link to portfolio - [here](https://website-name.com)
-- Link to portfolio - [https://github.com/jquizo](https://github.com/jquizo)
+- Link to Github - [https://github.com/jquizo](https://github.com/jquizo)
 - Link to presentation - [here]()
 
 ## Description
@@ -19,7 +19,7 @@
 
 ## Assignment requirements
 
-###R1 HTML Documents
+### R1 HTML Documents
 
 - Document 1 - Homepage
 - Document 2 - About page
