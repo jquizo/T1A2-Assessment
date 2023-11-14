@@ -2,7 +2,7 @@
 
 ## Coder Academy Online Portfolio
 
-- Link to portfolio - [here](https://website-name.com)
+- Link to portfolio - [here](https://jquizo-portfolio.netlify.app/)
 - Link to Github - [https://github.com/jquizo](https://github.com/jquizo)
 - Link to presentation - [here]()
 
