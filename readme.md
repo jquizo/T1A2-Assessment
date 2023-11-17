@@ -4,7 +4,7 @@
 
 - Link to portfolio - [here](https://jquizo-portfolio.netlify.app/)
 - Link to Github - [https://github.com/jquizo](https://github.com/jquizo)
-- Link to presentation - [here]()
+- Link to presentation - [here](https://youtu.be/HWtZuuXq3rM)
 
 ## Description
 
